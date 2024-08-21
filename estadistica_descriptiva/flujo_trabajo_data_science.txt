@@ -1,0 +1,14 @@
+/***********Flujo Trabajo*******/
+1.Ingesta de datos
+2.Visualización de datos
+3.Preparación de datos
+4.Entrenamiento del modelo
+5.Evaluación del modelo
+6.Validación del modelo
+7.Producción
+9.Consume el usuario final
+-----------------------------
+Fases:
+1.Se define el tipo de datos y el pipeline (procesamiento)
+2.Análisis exploratorio, estadística descriptiva, correlaciones, reducciones de los datos
+3.Probabilidad e inferencial

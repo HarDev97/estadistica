@@ -1,0 +1,17 @@
+/**********Estadística Descriptiva VS Inferencial******************/
+Descriptiva->Resumir datos
+Inferencial->Predecir datos
+
+La estadística Descriptiva depende de la definición de la metrica
+No tiene una definición objetiva
+Cada estadístico da una noción diferente de los mismos datos
+
+Las metricas obtenidas se llaman estadísticos descriptivos
+Producto Interno Bruto
+
+Sirve para
+Resumir grandes cantidades de información
+Tomar mejores decisiones
+Responder preguntas con relevancia social
+Reconocer patrones de datos
+Descubrir a quienes usan la estadística con fines inadecuados.
