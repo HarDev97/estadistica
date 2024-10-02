@@ -1,0 +1,5 @@
+Frecuencia:
+    Indica las veces que un valor se repite en una base de datos.
+
+Frecuencia relativa:
+    %De la frecuencia acumuulada

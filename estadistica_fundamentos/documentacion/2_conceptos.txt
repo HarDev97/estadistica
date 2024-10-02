@@ -1,0 +1,23 @@
+Que se estudia.
+Que se recopila.
+Datos:se capturan
+Tabla de datos: datos ordenados
+Individuos: pueden ser cualquier cosa.
+Variables:
+    Cuantitativas (discretas "enteros" , continuas "decimales")
+    Cualitativas (ordinales "tienen un orden" , nominales "describen pero no tienen orden").
+Niveles de medida:
+    Nominal->Datos binarios (si,no)
+    Ordinal->Nieveles de algo (>|<)
+    De intervalo->Grados, etc. Toman valores + o -
+    De proporción->Centimetros, ahorro, peso etc. Solo valores + 
+
+Tipos de estadística:
+    Descriptiva:
+        Recopila, organiza, presenta y describe un conjunto de datos
+        con el proposito de facilitar la interpretación.
+
+    Inferencial:
+        Inferencia de la población tomando una población de la misma.
+        Se toma de una muestra.
+

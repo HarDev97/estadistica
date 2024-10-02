@@ -1,0 +1,6 @@
+
+
+Tablas bidimensionales:
+    Responde una pregunta enfocada a más de una variable
+Tablas unidimensioanles:
+    Responde una pregunta enfocada a una variable

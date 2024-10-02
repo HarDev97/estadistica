@@ -1,0 +1,20 @@
+1. Hojas cálculo
+    Excel, Google sheets
+2. R
+    Estadísticos
+3. Python
+    Software
+4. Power Bi:
+    Gráficos de tendencia
+5. Tableau:
+    Gráficos de tendencia
+6. Looker
+    Gráficos de tendencia
+7. SPSS:
+    Pago
+8. SAS:
+    Lenguaje de programación
+9. Mathlab:
+    Modela
+10. Stata:
+    Proyecta
